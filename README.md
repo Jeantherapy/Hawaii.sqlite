@@ -11,12 +11,13 @@ The analysis consists of two deliverables: (1) a summary of temperature statisti
    - The average temperature in June is approximately 75.0 degrees Fahrenheit.
    - The minimum temperature recorded in June is around 64.0 degrees Fahrenheit.
    - The maximum temperature recorded in June is about 85.0 degrees Fahrenheit.
+![Image 1](https://github.com/Jeantherapy/Hawaii.sqlite/edit/main/README.md#:~:text=Dec_Temp.png-,June_temp,-.png)
 
 2. Summary of Temperature Statistics for December:
    - The average temperature in December is approximately 71.0 degrees Fahrenheit.
    - The minimum temperature recorded in December is around 56.0 degrees Fahrenheit.
    - The maximum temperature recorded in December is about 83.0 degrees Fahrenheit.
-
+![Image 2](https://github.com/Jeantherapy/Hawaii.sqlite/edit/main/README.md#:~:text=.gitignore-,Dec_Temp,-.png)
 ### Summary:
 Based on the analysis of temperature data for June and December, the following key differences in weather can be observed:
 
