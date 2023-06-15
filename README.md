@@ -17,7 +17,7 @@ The analysis consists of two deliverables: (1) a summary of temperature statisti
    - The average temperature in December is approximately 71.0 degrees Fahrenheit.
    - The minimum temperature recorded in December is around 56.0 degrees Fahrenheit.
    - The maximum temperature recorded in December is about 83.0 degrees Fahrenheit.
-![Image 2]()
+![Image 2](https://github.com/Jeantherapy/Hawaii.sqlite/blob/main/Dec_Temp.png)
 ### Summary:
 Based on the analysis of temperature data for June and December, the following key differences in weather can be observed:
 
